@@ -86,7 +86,3 @@ Kodun başındaki `AYARLAR` bölümünden değiştirilebilir:
 - Kaydederken çizimi otomatik kırpma
 - Türkçe karakter desteği (Pillow ile)
 - Meyve Ninja gibi el kontrollü oyunlar
-
-## Lisans
-
-İstersen buraya lisansını yaz (ör. MIT).
